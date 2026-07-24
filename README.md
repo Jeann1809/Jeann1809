@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jean Carlo 👋</h1>
 
 <p align="center">
-🎓 Computer Science Student @ Texas Tech University &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 Applying ML/AI
+🎓 CS Student @ Texas Tech University &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 Applying ML/AI
 </p>
 
 <p align="center">
@@ -13,11 +13,8 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student at Texas Tech University building full-stack applications with **Node.js, Express, MongoDB, and React**, and applying **Machine Learning** to solve practical problems using PyTorch and scikit-learn.
+I'm a Computer Science student at Texas Tech University building full-stack applications with **Node.js, Express, MongoDB, and React**, and applying **Machine Learning** with PyTorch and scikit-learn. I'm currently looking for **internship opportunities** where I can contribute and keep growing as a developer.
 
-I like taking projects end-to-end: designing backend architecture, building the interfaces that consume it, and increasingly, training models that make those applications smarter. I'm currently looking for **internship opportunities** where I can contribute to real-world engineering and keep growing as a developer.
-
-- 🔭 Currently working on: reinforcement learning and predictive modeling projects
 - 🌱 Currently learning: Deep Learning and applied AI systems
 - 💬 Ask me about: Node.js, Express, MongoDB, React, PyTorch
 - 📫 Reach me at: **jalmario@ttu.edu**
@@ -26,12 +23,11 @@ I like taking projects end-to-end: designing backend architecture, building the 
 
 ## 🛠 Tech Stack
 
-**Languages:** JavaScript, Python, Java, HTML, CSS
+**Languages:** JavaScript, Python, Java
 **Backend:** Node.js, Express, Socket.io
 **Frontend:** React
-**ML/AI:** PyTorch, scikit-learn, Pandas, NumPy
+**ML/AI:** PyTorch, scikit-learn, Pandas
 **Databases:** MongoDB
-**Tools:** Git, GitHub, VS Code, Postman, Jupyter Notebook
 
 ---
 
@@ -40,45 +36,27 @@ I like taking projects end-to-end: designing backend architecture, building the 
 ### 🤖 AI/ML
 
 **[reinforcement-learning-snake](https://github.com/Jeann1809/reinforcement-learning-snake)**
-Deep Q-Learning AI agent that learns to play Snake through reinforcement learning.
-- **Stack:** Python, PyTorch, Pygame
-- **Highlights:** Custom neural network for Q-value approximation, experience replay, epsilon-greedy exploration strategy
-- **Learnings:** Reinforcement learning fundamentals, reward shaping, training stability
+Deep Q-Learning AI agent trained to play Snake using PyTorch and Pygame.
+*Learnings: reinforcement learning fundamentals, reward shaping, experience replay*
 
 **[Wine-Quality-Predictor](https://github.com/Jeann1809/Wine-Quality-Predictor)**
-Predicts wine quality ratings (0-10) from physicochemical features using the UCI Red Wine Quality dataset.
-- **Stack:** Python, Jupyter Notebook, scikit-learn, Pandas
-- **Highlights:** Feature analysis on acidity, sugar, and alcohol content to predict ratings
-- **Learnings:** Data preprocessing, model evaluation, applied ML on tabular data
+ML model predicting wine quality ratings from physicochemical features using the UCI dataset.
+*Learnings: data preprocessing, model evaluation, applied ML on tabular data*
 
 ### 💻 Full-Stack
 
 **[Agentify-Web](https://github.com/HackTX-project2025/Agentify-Web)**
 Turns a plain-English business description into a live, deployable website. Built at HackTX 2025.
-- **Stack:** JavaScript
-- **Highlights:** GitHub sign-in, instant AI-generated site preview, one-click deploy to a new GitHub repo
-- **Learnings:** Rapid prototyping, GitHub API integration, AI-assisted code generation under hackathon time constraints
+*Learnings: rapid prototyping, GitHub API integration, AI-assisted code generation*
 
 **[crochet-ecommerce-backend](https://github.com/Jeann1809/crochet-ecommerce-backend)**
-RESTful API for an e-commerce platform selling handmade crochet dolls.
-- **Stack:** Node.js, Express, MongoDB
-- **Highlights:** User authentication, product management, order processing
-- **Learnings:** Backend architecture and secure API design for real commerce use cases
+RESTful API for an e-commerce platform, handling auth, products, and orders.
+*Learnings: backend architecture, secure API design*
 
 **[AnyTongueBackEnd](https://github.com/Jeann1809/AnyTongueBackEnd)**
-Backend for AnyTongue, a real-time multi-language chat app.
-- **Stack:** Node.js, Express, Socket.io, MongoDB
-- **Highlights:** Real-time messaging, JWT authentication, Google Gemini-powered translation, AES-256 message encryption
-- **Learnings:** Real-time systems, applied cryptography, third-party AI API integration
+Real-time multi-language chat backend with encryption and AI translation.
+*Learnings: real-time systems, applied cryptography, third-party AI API integration*
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jeann1809&show_icons=true&theme=default" />
-</p>
-
----
-
-<p align="center">📌 Let's connect — always open to internship opportunities and collaboration!</p>
+<p align="center">📌 Open to internship opportunities and collaboration!</p>
