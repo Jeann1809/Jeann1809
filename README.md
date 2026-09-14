@@ -13,8 +13,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student at Texas Tech University building full-stack applications with **Node.js, Express, MongoDB, and React**, and applying **Machine Learning** with PyTorch and scikit-learn. I'm currently looking for **internship opportunities** where I can contribute and keep growing as a developer.
+I'm a Computer Science student at Texas Tech University building full-stack applications with **Node.js, Express, MongoDB, and React**, and applying **Machine Learning** with PyTorch and scikit-learn. I'm an AI/ML Fellow with **Break Through Tech AI (Cornell Tech)**, currently building a harmful algal bloom risk classifier with **Oregon State University's Socio-Environmental Analysis Lab**. I'm currently looking for **internship opportunities** where I can contribute and keep growing as a developer.
 
+- 🔬 Currently building: HAB (harmful algal bloom) risk forecasting model with Oregon State University, using oceanographic data
 - 🌱 Currently learning: Deep Learning and applied AI systems
 - 💬 Ask me about: Node.js, Express, MongoDB, React, PyTorch
 - 📫 Reach me at: **jalmario@ttu.edu**
@@ -35,9 +36,9 @@ I'm a Computer Science student at Texas Tech University building full-stack appl
 
 ### 🤖 AI/ML
 
-**[reinforcement-learning-snake](https://github.com/Jeann1809/reinforcement-learning-snake)**
-Deep Q-Learning AI agent trained to play Snake using PyTorch and Pygame.
-*Learnings: reinforcement learning fundamentals, reward shaping, experience replay*
+**[Harmful Algal Bloom Risk Forecasting](https://github.com/Break-Through-Tech/Oregon-State-University-1B-forecasting-risk-of-harmful-algal-blooms-in-coastal-marine-ecosystems)**
+Classification model predicting HAB risk in coastal ecosystems from oceanographic data, for OSU's Socio-Environmental Analysis Lab.
+*Learnings: leave-future-out cross-validation, feature engineering on large-scale environmental datasets*
 
 **[Wine-Quality-Predictor](https://github.com/Jeann1809/Wine-Quality-Predictor)**
 ML model predicting wine quality ratings from physicochemical features using the UCI dataset.
